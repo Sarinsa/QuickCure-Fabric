@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.sarinsa.quickcure.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "ZombieVillagerEntityMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
